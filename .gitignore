@@ -15,5 +15,3 @@ setenv.sh
 
 .env
 goaws-config.yaml
-Dockerfile.local
-goaws.yaml
